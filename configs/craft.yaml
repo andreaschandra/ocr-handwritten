@@ -1,0 +1,12 @@
+trained_model: "scripts/model/craft_mlt_25k.pth"
+text_threshold: 0.6
+low_text: 0.4
+link_threshold: 0.5
+cuda: False
+canvas_size: 2160
+mag_ratio: 1.5
+poly: False
+show_time: False
+test_folder: './data/test'
+refine: False
+refiner_model: 'scripts/model/craft_refiner_CTW1500.pth'
