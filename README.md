@@ -1,7 +1,7 @@
 # ocr-handwritten
 An end-to-end model development for handwritten OCR 
 
-Experiment Tracking (here)[https://app.clear.ml/projects/d60f182ac5104605afd7f1c45ff2a927/experiments/f2fb3eb021f8408b9da26fd91ac65c20/output/execution]
+Experiment Tracking [here](https://app.clear.ml/projects/d60f182ac5104605afd7f1c45ff2a927/experiments/f2fb3eb021f8408b9da26fd91ac65c20/output/execution)
 
 # Requirements
 Please make sure that you have docker installed on you device.
